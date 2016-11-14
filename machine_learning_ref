@@ -3,10 +3,27 @@ Practice Problems:
   https://datahack.analyticsvidhya.com/contest/all/
 
 Guides and Tips:
-1) Learning From the Best
-  http://blog.kaggle.com/2014/08/01/learning-from-the-best/
+A) Data Science Conference Tips
+  1) Learning From the Best
+      http://blog.kaggle.com/2014/08/01/learning-from-the-best/
+  2) 10 Steps to Success in Kaggle Data Science Competitions
+      http://www.kdnuggets.com/2015/03/10-steps-success-kaggle-data-science-competitions.html
+  
+B) Tutorials:
+  1) DataRobot - Gradient Boosted Regression Tree
+      https://www.datarobot.com/blog/gradient-boosted-regression-trees/
+  2) 
+  
+C) Lectures / Readings:
+  1) MIT OCW Lecture 17: Learning: Boosting
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-17-learning-boosting/
+  2) Brief Intro to GBM (John Mount of Win-Vector)
+      https://www.youtube.com/watch?v=WZvPUGNJg18
 
-
-
+D) Technical Guides:
+  1) Kaggle - Best Practices for Parameter Tuning on Models
+      https://www.kaggle.com/c/bnp-paribas-cardif-claims-management/forums/t/19083/best-practices-for-parameter-tuning-on-models/108783
+  2) Complete Guide to Parameter Tuning in XGBoost (with codes in Python)
+      https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/  
 
 
